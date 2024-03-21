@@ -1,0 +1,6 @@
+com\subham\Items\ItemsApplication.class
+com\subham\Items\repository\ItemRepository.class
+com\subham\Items\entity\Item.class
+com\subham\Items\controller\ItemController.class
+com\subham\Items\service\ItemServiceImp.class
+com\subham\Items\service\ItemService.class
